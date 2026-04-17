@@ -12,3 +12,6 @@ docker run -d -p 3000:3000 -v denunciaya_data:/app hongito/denunciaya
 
 Una vez levantado el contenedor, abre tu navegador en:
 http://localhost:3000
+
+Usuario admin
+Contrasena: Admin@123
