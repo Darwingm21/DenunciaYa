@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "sqlite3": "^6.0.1"
+  },
+  "name": "denuncia-ya",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
